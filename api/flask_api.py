@@ -16,6 +16,7 @@ connect(host=f"mongodb://{os.environ['MONGODB_HOSTNAME']}:27017/brevetsdb")
 # Start Flask app and Api here:
 # app = 
 # api = 
+#start soon
 
 # Bind resources to paths here:
 # api.add_resource(...)
